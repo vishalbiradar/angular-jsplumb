@@ -1,8 +1,12 @@
 # Angular Jsplumb Integration
 
+#### To use this repo code as it is, follow the below steps
+
 - clone this repo
 - do npm install
 - npm start
+
+#### To Integrate jsplumb in your any angular project, follow below steps
 
 Steps to integrate JsPlumb:
 
