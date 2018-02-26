@@ -90,4 +90,4 @@ actual jsplumb connection logic
 ```
 
 ## Demo
-https://angular-jsplumb.stackblitz.io
+https://stackblitz.com/edit/angular-jsplumb
