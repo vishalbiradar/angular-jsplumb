@@ -89,3 +89,5 @@ actual jsplumb connection logic
 </div>
 ```
 
+## Demo
+https://angular-jsplumb.stackblitz.io
