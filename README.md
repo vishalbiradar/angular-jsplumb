@@ -68,26 +68,26 @@ actual jsplumb connection logic
     ```
     
 6) The html code
-```html
-<div class="container">
-  <span class="btn btn-primary" (click)="connectSourceToTargetUsingJSPlumb()">Connect</span>
-  <div class="row">
-    <div class="col-md-12">
-      <div class="alignleft">
-        <div class="customBox" id="Source">
-          Source
+    ```html
+    <div class="container">
+      <span class="btn btn-primary" (click)="connectSourceToTargetUsingJSPlumb()">Connect</span>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="alignleft">
+            <div class="customBox" id="Source">
+              Source
+            </div>
+          </div>
+          <div class="alignright">
+            <div class="customBox" id="Target1">
+              Target 1
+            </div>
+          </div>
+          <div style="clear: both;"></div>
         </div>
       </div>
-      <div class="alignright">
-        <div class="customBox" id="Target1">
-          Target 1
-        </div>
-      </div>
-      <div style="clear: both;"></div>
     </div>
-  </div>
-</div>
-```
+    ```
 
 ## Demo
 https://stackblitz.com/edit/angular-jsplumb
